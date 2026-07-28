@@ -2,7 +2,7 @@
 
 **Quiet by nature. Observant by habit. Curious by choice. Driven by innovation.**
 
-## Current obsession
+## Obsession
 
 - Innovation
 - Cybersecurity
