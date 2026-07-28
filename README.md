@@ -1,40 +1,20 @@
-<table>
-<tr>
-<td valign="top" width="260">
+# Hello, internet.
 
-<img src="./assets/left.gif" width="220">
+> Quiet by nature. Observant by habit. Curious by choice. Driven by innovation.
 
-</td>
+## Interest
 
-<td valign="top">
+- Innovation
+- Cybersecurity
+- AI
 
-<h1>Hello, internet.</h1>
+## Offline Mode
 
-<p><i>Curiosity has been my favorite operating system.</i></p>
+- Gaming
+- Small experiments
 
-<p>
-<b>STATUS</b><br><br>
-Observing.<br>
-Learning.<br>
-Building.
+<p align="center">
+  <img src="./assets/lizard.gif" width="420">
 </p>
 
-<p>
-<b>INTERESTS</b><br><br>
-Cybersecurity<br>
-AI<br>
-Privacy<br>
-Innovation
-</p>
-
-<p>
-<b>OFFLINE MODE</b><br><br>
-Gaming<br>
-Experiments
-</p>
-
-<p><b>Stay curious.</b></p>
-
-</td>
-</tr>
-</table>
+> **Stay curious.**
