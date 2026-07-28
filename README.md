@@ -1,39 +1,40 @@
-<img src="./assets/left.gif" width="250" align="left">
+<table>
+<tr>
+<td valign="top" width="260">
 
-<div align="center">
+<img src="./assets/left.gif" width="220">
 
-# Hello, internet.
+</td>
 
-*Curiosity has been my favorite operating system.*
+<td valign="top">
 
-<br>
+<h1>Hello, internet.</h1>
 
-### STATUS
+<p><i>Curiosity has been my favorite operating system.</i></p>
 
+<p>
+<b>STATUS</b><br><br>
 Observing.<br>
 Learning.<br>
 Building.
+</p>
 
-<br>
-
-### INTERESTS
-
+<p>
+<b>INTERESTS</b><br><br>
 Cybersecurity<br>
 AI<br>
 Privacy<br>
 Innovation
+</p>
 
-<br>
-
-### OFFLINE MODE
-
+<p>
+<b>OFFLINE MODE</b><br><br>
 Gaming<br>
 Experiments
+</p>
 
-<br><br>
+<p><b>Stay curious.</b></p>
 
-**Stay curious.**
-
-</div>
-
-<br clear="left">
+</td>
+</tr>
+</table>
