@@ -1,20 +1,18 @@
 # Hello, internet.
 
-> Quiet by nature. Observant by habit. Curious by choice. Driven by innovation.
+**Quiet by nature. Observant by habit. Curious by choice. Driven by innovation.**
 
-## Interest
+## Current obsession
 
 - Innovation
 - Cybersecurity
-- AI
+- Artificial Intelligence
 
-## Offline Mode
+## Offline
 
 - Gaming
-- Small experiments
+- Exploring random stuff
 
 <p align="center">
-  <img src="./assets/lizard.gif" width="420">
+  <img src="./assets/left.gif" width="420">
 </p>
-
-> **Stay curious.**
