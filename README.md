@@ -1,12 +1,8 @@
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" valign="middle" width="25%">
+<div align="center">
 
-<img src="./assets/left.gif" width="220">
+<img align="left" src="./assets/left.gif" width="220">
 
-</td>
-
-<td align="center" valign="middle" width="50%">
+<img align="right" src="./assets/right.gif" width="220">
 
 # Hello, internet.
 
@@ -36,12 +32,6 @@ Experiments
 
 > Stay curious.
 
-</td>
+</div>
 
-<td align="center" valign="middle" width="25%">
-
-<img src="./assets/right.gif" width="220">
-
-</td>
-</tr>
-</table>
+<div style="clear:both;"></div>
