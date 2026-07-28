@@ -1,50 +1,34 @@
-<div align="center">
-
 # Hello, internet.
 
-```txt
-> booting curiosity...
-> status        online
-> mode          learning
+```
+STATUS
+
+Observing.
+<p align="center">
+  <img src="https://i.gifer.com/XOsX.gif" width="150">
+</p>
+Learning.
+Building.
 ```
 
-*"Curiosity has been my favorite operating system."*
+```
+INTERESTS
 
-</div>
-
-<br>
-
-```txt
-$ whoami
-
-Harshil Vanparia
-
-Interest
-├── Cybersecurity
-├── Artificial Intelligence
-├── Privacy
-└── Innovation
-
-Currently
-└── Creator of Garuda Registry
-
-Outside coding
-├── Watching security talks
-├── Reverse engineering ideas
-├── Building tiny tools
-└── Casual gamer
+Cybersecurity
+AI
+Privacy
+Innovation
 ```
 
-<br>
+```
+OFFLINE MODE
 
-<div align="center">
+Gaming
+Experiments
+```
 
-<!-- GIF goes here -->
+<p align="center">
+  <img src="https://i.gifer.com/XOsX.gif" width="650">
+</p>
 
-<img src="https://i.gifer.com/XOsX.gif" width="650"/>
-
-<br><br>
-
-> Stay curious. Everything else follows.
-
-</div>
+> Stay curious.
