@@ -1,15 +1,14 @@
-<img src="./assets/left.gif" width="220" align="left">
-
-<img src="./assets/right.gif" width="220" align="right">
+<img src="./assets/left.gif" width="250" align="left">
 
 <div align="center">
 
-<h1>Hello, internet.</h1>
+# Hello, internet.
 
-<i>Curiosity has been my favorite operating system.</i>
+*Curiosity has been my favorite operating system.*
 
-<b>STATUS</b>
+<br>
 
+### STATUS
 
 Observing.<br>
 Learning.<br>
@@ -17,9 +16,7 @@ Building.
 
 <br>
 
-<b>INTERESTS</b>
-
-<br>
+### INTERESTS
 
 Cybersecurity<br>
 AI<br>
@@ -28,17 +25,15 @@ Innovation
 
 <br>
 
-<b>OFFLINE MODE</b>
-
-<br>
+### OFFLINE MODE
 
 Gaming<br>
 Experiments
 
-<br>
+<br><br>
 
-<b>Stay curious.</b>
+**Stay curious.**
 
 </div>
 
-<br clear="both">
+<br clear="left">
