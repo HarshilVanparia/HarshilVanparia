@@ -1,4 +1,4 @@
-<table width="100%">
+<table align="center">
 <tr>
 
 <td width="25%" align="center" valign="middle">
@@ -7,37 +7,31 @@
 
 <td width="50%" align="center" valign="middle">
 
-<h1>Hello, internet.</h1>
+# Hello, internet.
 
-<i>Curiosity has been my favorite operating system.</i>
+*Curiosity has been my favorite operating system.*
 
-<br><br>
-
-<b>STATUS</b><br><br>
+### STATUS
 
 Observing.<br>
 Learning.<br>
 Building.
 
-<br><br>
-
-<b>INTERESTS</b><br><br>
+### INTERESTS
 
 Cybersecurity<br>
 AI<br>
 Privacy<br>
 Innovation
 
-<br><br>
-
-<b>OFFLINE MODE</b><br><br>
+### OFFLINE MODE
 
 Gaming<br>
 Experiments
 
-<br><br>
+<br>
 
-<b>Stay curious.</b>
+**Stay curious.**
 
 </td>
 
