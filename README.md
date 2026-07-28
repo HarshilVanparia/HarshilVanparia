@@ -8,37 +8,34 @@
 
 <i>Curiosity has been my favorite operating system.</i>
 
-<br><br>
-
 <b>STATUS</b>
 
-<br><br>
 
 Observing.<br>
 Learning.<br>
 Building.
 
-<br><br>
+<br>
 
 <b>INTERESTS</b>
 
-<br><br>
+<br>
 
 Cybersecurity<br>
 AI<br>
 Privacy<br>
 Innovation
 
-<br><br>
+<br>
 
 <b>OFFLINE MODE</b>
 
-<br><br>
+<br>
 
 Gaming<br>
 Experiments
 
-<br><br>
+<br>
 
 <b>Stay curious.</b>
 
