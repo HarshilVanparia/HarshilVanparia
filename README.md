@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, internet.
 
-<!--
-**HarshilVanparia/HarshilVanparia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Curiosity has been my favorite operating system.
 
-Here are some ideas to get you started:
+## Currently obsessed with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cybersecurity
+- Artificial Intelligence
+- Privacy
+- Building Garuda Registry
+
+## Outside of coding
+
+- Watching security talks
+- Going down random internet rabbit holes
+- Playing games badly
+- Reverse engineering ideas
+- Building tiny tools that solve small problems
+
+> Stay curious. Everything else follows.
