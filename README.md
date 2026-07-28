@@ -4,12 +4,12 @@
 STATUS
 
 Observing.
-<p align="center">
-  <img src="https://i.gifer.com/XOsX.gif" width="150">
-</p>
 Learning.
 Building.
 ```
+<p align="center">
+  <img src="https://i.gifer.com/XOsX.gif" width="150">
+</p>
 
 ```
 INTERESTS
