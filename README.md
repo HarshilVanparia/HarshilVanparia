@@ -1,20 +1,50 @@
+<div align="center">
+
 # Hello, internet.
 
-> Curiosity has been my favorite operating system.
+```txt
+> booting curiosity...
+> status        online
+> mode          learning
+```
 
-## Currently obsessed with
+*"Curiosity has been my favorite operating system."*
 
-- Cybersecurity
-- Artificial Intelligence
-- Privacy
-- Building Garuda Registry
+</div>
 
-## Outside of coding
+<br>
 
-- Watching security talks
-- Going down random internet rabbit holes
-- Playing games badly
-- Reverse engineering ideas
-- Building tiny tools that solve small problems
+```txt
+$ whoami
+
+Harshil Vanparia
+
+Interest
+├── Cybersecurity
+├── Artificial Intelligence
+├── Privacy
+└── Innovation
+
+Currently
+└── Creator of Garuda Registry
+
+Outside coding
+├── Watching security talks
+├── Reverse engineering ideas
+├── Building tiny tools
+└── Casual gamer
+```
+
+<br>
+
+<div align="center">
+
+<!-- GIF goes here -->
+
+<img src="https://i.gifer.com/XOsX.gif" width="650"/>
+
+<br><br>
 
 > Stay curious. Everything else follows.
+
+</div>
