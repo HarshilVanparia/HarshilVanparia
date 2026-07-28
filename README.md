@@ -1,37 +1,57 @@
-<div align="center">
+<table align="center" border="0">
+<tr>
+<td width="25%" align="center" valign="middle">
 
-<img align="left" src="./assets/left.gif" width="220">
+<img src="./assets/left.gif" width="220">
 
-<img align="right" src="./assets/right.gif" width="220">
+</td>
 
-# Hello, internet.
+<td width="50%" align="center" valign="middle">
 
-```text
-STATUS
+<h1>Hello, internet.</h1>
 
-Observing.
-Learning.
+<p><i>Curiosity has been my favorite operating system.</i></p>
+
+<br>
+
+<h3>STATUS</h3>
+
+<p>
+Observing.<br>
+Learning.<br>
 Building.
-```
+</p>
 
-```text
-INTERESTS
+<br>
 
-Cybersecurity
-AI
-Privacy
+<h3>INTERESTS</h3>
+
+<p>
+Cybersecurity<br>
+AI<br>
+Privacy<br>
 Innovation
-```
+</p>
 
-```text
-OFFLINE MODE
+<br>
 
-Gaming
+<h3>OFFLINE MODE</h3>
+
+<p>
+Gaming<br>
 Experiments
-```
+</p>
 
-> Stay curious.
+<br><br>
 
-</div>
+<p><b>Stay curious.</b></p>
 
-<div style="clear:both;"></div>
+</td>
+
+<td width="25%" align="center" valign="middle">
+
+<img src="./assets/right.gif" width="220">
+
+</td>
+</tr>
+</table>
