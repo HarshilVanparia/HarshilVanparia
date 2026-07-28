@@ -1,12 +1,12 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="25%" align="center" valign="top">
+<td align="center" valign="middle" width="25%">
 
 <img src="./assets/left.gif" width="220">
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" valign="middle" width="50%">
 
 # Hello, internet.
 
@@ -38,7 +38,7 @@ Experiments
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td align="center" valign="middle" width="25%">
 
 <img src="./assets/right.gif" width="220">
 
